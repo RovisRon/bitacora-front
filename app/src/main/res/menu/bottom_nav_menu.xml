@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/supportButton"
+        android:title="Soporte"
+        android:onClick="onSoporteClick"
+        android:icon="@drawable/icono_18"/>
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"
+        android:onClick="onPerfilClick"
+        android:icon="@drawable/icono_18"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:onClick="onSettingsClick"
+        android:icon="@drawable/icono_18"/>
+</menu>
